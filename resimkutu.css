@@ -1,0 +1,26 @@
+#sabit {
+    position:relative;
+    width:124px;
+    height:35px;
+    z-index:1;
+}
+#acilkapan {
+    position:absolute;
+    left:0px;
+    top:32px;
+    width:385px;
+    height:300px;
+    z-index:2;
+    background:#FFF;
+    visibility:hidden;
+    border: 5px solid #D1CF9C;
+    padding: 2px;
+    float: left;
+    margin: 5px 10px 5px 0;
+    padding: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin-bottom: 10px;
+    behavior:url(border-radius.htc);
+}
